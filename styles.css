@@ -1,0 +1,57 @@
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 3%;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: x-large;
+}
+nav{
+    width: 60vw;
+    
+    
+}
+img{
+    margin-left: 1rem;
+    margin-bottom: 3rem;
+}
+.container{
+    display: flex;
+}
+div>p{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 1rem;
+}
+div>img{
+    margin-left: 4cm;
+}
+div>h1{
+    margin-left: 4cm;
+    font-size: xx-large;
+}
+.html>h1{
+    margin-left: 4.6cm;
+}
+.css>h1{
+    margin-left: 4.87cm;
+}
+h1{
+    font-weight: normal;
+}
+li:hover{
+    cursor: pointer;
+    color: crimson;
+}
+footer{
+    text-align: center;
+    font-size: x-large;
+    background-color: rgb(34, 23, 23);
+    color: beige;
+
+}
